@@ -1,0 +1,4 @@
+flask
+three
+pytesseract
+pillow
